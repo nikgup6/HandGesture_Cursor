@@ -421,7 +421,7 @@ def main():
     if cap is not None:
         cap.release()
     cv2.destroyAllWindows()
-    print("Application exited.Also returned")
+    print("Application exited.")
 
 
 if __name__ == "__main__":
